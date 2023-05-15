@@ -41,7 +41,7 @@ There is no current way to contribute to this project
 
 ## Tests
 
-I have tried many different inputs to make logos with all kinds of color inputs in all of the shapes
+I have created multiple HTML files, to make logos with many different color inputs for each shape
 
 ## Questions
 
