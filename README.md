@@ -27,6 +27,10 @@ Heres a link of a video showing it in real time:
 
 https://drive.google.com/file/d/1FPGXS-CG6_KZkQHrvU7venorZbl_pUTr/view
 
+This is what the output will look like:
+
+![sample SVG logo](/SVG-logo-generator/lib/sampleIMG.png)
+
 ## License
 
 The license used in this project is: MIT License
