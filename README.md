@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1FPGXS-CG6_KZkQHrvU7venorZbl_pUTr/view
 
 This is what the output will look like:
 
-![sample SVG logo](/SVG-logo-generator/lib/sampleIMG.png)
+![sample SVG logo](https://github.com/PacoCasillas/SVG-logo-generator/blob/main/lib/sampleIMG.png)
 
 ## License
 
